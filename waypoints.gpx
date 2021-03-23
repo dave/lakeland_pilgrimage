@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GaiaGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="54.497409" lon="-3.281119">
+    <ele>891.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Pillar</name>
+  </wpt>
+  <wpt lat="54.376056" lon="-2.815545">
+    <ele>93.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Staveley</name>
+  </wpt>
+  <wpt lat="54.393728" lon="-3.141239">
+    <ele>763.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Grey Friar</name>
+  </wpt>
+  <wpt lat="54.429256" lon="-2.832016">
+    <ele>212.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Mags Howe</name>
+    <desc>Bunkhouse accommodation</desc>
+  </wpt>
+  <wpt lat="54.515307" lon="-3.267961">
+    <ele>734.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>High Crag</name>
+  </wpt>
+  <wpt lat="54.608505" lon="-3.074195">
+    <ele>175.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Burns Farm Camp Site</name>
+  </wpt>
+  <wpt lat="54.508111" lon="-3.004682">
+    <ele>658.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Cock Cove</name>
+  </wpt>
+  <wpt lat="54.507783" lon="-3.248268">
+    <ele>575.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Haystacks</name>
+  </wpt>
+  <wpt lat="54.500231" lon="-3.245011">
+    <ele>279.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Black Sail Youth Hostel</name>
+  </wpt>
+  <wpt lat="54.633317" lon="-3.018115">
+    <ele>230.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>White Horse Inn Scales</name>
+  </wpt>
+  <wpt lat="54.462946" lon="-3.006228">
+    <ele>368.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Alcock Tarn</name>
+  </wpt>
+  <wpt lat="54.502384" lon="-3.001560">
+    <ele>533.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Brothers Parting Stone</name>
+  </wpt>
+  <wpt lat="54.526876" lon="-3.017627">
+    <ele>942.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Helvellyn</name>
+  </wpt>
+  <wpt lat="54.484639" lon="-3.321842">
+    <ele>796.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Haycock</name>
+  </wpt>
+  <wpt lat="54.521163" lon="-3.285385">
+    <ele>798.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>High Stile</name>
+  </wpt>
+  <wpt lat="54.485760" lon="-3.213275">
+    <ele>789.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Green Gable</name>
+  </wpt>
+  <wpt lat="54.567726" lon="-3.171338">
+    <ele>433.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Catbells</name>
+  </wpt>
+  <wpt lat="54.377355" lon="-3.124273">
+    <ele>794.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Brim Fell</name>
+  </wpt>
+  <wpt lat="54.453225" lon="-3.311266">
+    <ele>579.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Middle Fell</name>
+  </wpt>
+  <wpt lat="54.415948" lon="-3.058634">
+    <ele>151.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Cathedral Quarry</name>
+  </wpt>
+  <wpt lat="54.429468" lon="-2.935670">
+    <ele>475.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Wansfell Pike</name>
+  </wpt>
+  <wpt lat="54.540993" lon="-3.234999">
+    <ele>732.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Robinson</name>
+  </wpt>
+  <wpt lat="54.515264" lon="-3.011293">
+    <ele>706.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Hard Tarn</name>
+  </wpt>
+  <wpt lat="54.490063" lon="-2.965150">
+    <ele>704.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Priests Hole</name>
+    <desc>Cave sleeping place beneath a Cathedral like crag with a magnificent view to the East</desc>
+  </wpt>
+  <wpt lat="54.402114" lon="-2.761284">
+    <ele>205.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Docker Nook Viewpoint</name>
+    <desc>Stunning views of natural woodland and hills beyond</desc>
+  </wpt>
+  <wpt lat="54.453656" lon="-3.220460">
+    <ele>845.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Crenation Ridge</name>
+  </wpt>
+  <wpt lat="54.417330" lon="-2.905806">
+    <ele>123.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Troutbeck Church</name>
+  </wpt>
+  <wpt lat="54.585594" lon="-2.942845">
+    <ele>294.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Royal Hotel Dockray</name>
+  </wpt>
+  <wpt lat="54.525540" lon="-3.005480">
+    <ele>857.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Striding Edge</name>
+  </wpt>
+  <wpt lat="54.482736" lon="-3.219041">
+    <ele>886.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Great Gable</name>
+  </wpt>
+  <wpt lat="54.499639" lon="-2.992378">
+    <ele>797.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Cofa Pike</name>
+  </wpt>
+  <wpt lat="54.369262" lon="-3.135635">
+    <ele>695.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Easy Gully</name>
+  </wpt>
+  <wpt lat="54.438635" lon="-3.320606">
+    <ele>81.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Greendale</name>
+  </wpt>
+  <wpt lat="54.398405" lon="-2.795656">
+    <ele>420.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Brunt Knott</name>
+    <desc>First summit with extensive views</desc>
+  </wpt>
+  <wpt lat="54.451415" lon="-3.000763">
+    <ele>135.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Old Coffin Route</name>
+  </wpt>
+  <wpt lat="54.559099" lon="-3.269624">
+    <ele>643.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Whiteless Pike</name>
+  </wpt>
+  <wpt lat="54.566549" lon="-3.257714">
+    <ele>769.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Wandope</name>
+  </wpt>
+  <wpt lat="54.372724" lon="-3.170274">
+    <ele>247.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Throng Close buttress</name>
+  </wpt>
+  <wpt lat="54.437527" lon="-3.206659">
+    <ele>379.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Sampsons Stones</name>
+  </wpt>
+  <wpt lat="54.386432" lon="-2.903277">
+    <ele>225.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Orrest Head</name>
+  </wpt>
+  <wpt lat="54.508706" lon="-3.228279">
+    <ele>436.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Warnscale Head Bothy</name>
+  </wpt>
+  <wpt lat="54.564523" lon="-2.963939">
+    <ele>518.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Glencoyne Brow</name>
+  </wpt>
+  <wpt lat="54.401710" lon="-2.904037">
+    <ele>228.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Allen Knott</name>
+  </wpt>
+  <wpt lat="54.447552" lon="-2.980867">
+    <ele>66.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Rydal</name>
+  </wpt>
+  <wpt lat="54.397647" lon="-3.125821">
+    <ele>768.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Great carrs</name>
+  </wpt>
+  <wpt lat="54.640306" lon="-3.050085">
+    <ele>863.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Blencathra</name>
+  </wpt>
+  <wpt lat="54.386888" lon="-3.205049">
+    <ele>638.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Harter Fell</name>
+  </wpt>
+  <wpt lat="54.518013" lon="-3.151994">
+    <ele>96.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Borrowdale Youth Hostel</name>
+  </wpt>
+  <wpt lat="54.602232" lon="-3.190348">
+    <ele>84.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Braithwaite</name>
+  </wpt>
+  <wpt lat="54.389750" lon="-2.740939">
+    <ele>141.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Fishing Lake</name>
+    <desc>Small fishing pool</desc>
+  </wpt>
+  <wpt lat="54.447735" lon="-3.224664">
+    <ele>946.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Scafell</name>
+  </wpt>
+  <wpt lat="54.518806" lon="-3.015449">
+    <ele>889.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Nethermost Pike</name>
+  </wpt>
+  <wpt lat="54.500215" lon="-2.863414">
+    <ele>660.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Short Stile</name>
+    <desc>Steep and unfrequented ridge near the eagles</desc>
+  </wpt>
+  <wpt lat="54.495880" lon="-3.150754">
+    <ele>585.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Rosthwaite Cam</name>
+  </wpt>
+  <wpt lat="54.505846" lon="-2.885092">
+    <ele>419.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Hayeswater</name>
+  </wpt>
+  <wpt lat="54.385965" lon="-3.141942">
+    <ele>548.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Great Blake Rigg</name>
+  </wpt>
+  <wpt lat="54.370687" lon="-3.121635">
+    <ele>800.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Old Man of Coniston</name>
+  </wpt>
+  <wpt lat="54.505779" lon="-3.240299">
+    <ele>525.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Innominate Tarn</name>
+  </wpt>
+  <wpt lat="54.463676" lon="-3.328695">
+    <ele>690.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Seatallan</name>
+  </wpt>
+  <wpt lat="54.466340" lon="-3.179487">
+    <ele>784.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Allencrags</name>
+  </wpt>
+  <wpt lat="54.461523" lon="-3.103323">
+    <ele>527.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Jacks Rake</name>
+  </wpt>
+  <wpt lat="54.385043" lon="-2.749019">
+    <ele>247.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Low Taggleshaw Tarn</name>
+  </wpt>
+  <wpt lat="54.508627" lon="-3.011799">
+    <ele>847.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Dollwaggon Pike</name>
+  </wpt>
+  <wpt lat="54.547017" lon="-3.156584">
+    <ele>80.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Grange</name>
+  </wpt>
+  <wpt lat="54.376450" lon="-3.109469">
+    <ele>335.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Pudding Stone</name>
+  </wpt>
+  <wpt lat="54.375995" lon="-3.157251">
+    <ele>376.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Seathwaite Tarn</name>
+  </wpt>
+  <wpt lat="54.571912" lon="-3.277602">
+    <ele>838.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Grasmoor</name>
+  </wpt>
+  <wpt lat="54.433212" lon="-3.283431">
+    <ele>601.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Illgill Head</name>
+  </wpt>
+  <wpt lat="54.501182" lon="-2.972825">
+    <ele>457.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Greenhow End Scramble</name>
+    <desc>Grade 2 buttress scramble</desc>
+  </wpt>
+  <wpt lat="54.577565" lon="-2.909233">
+    <ele>338.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Gowbarrow Memorial Bench</name>
+  </wpt>
+  <wpt lat="54.619660" lon="-3.048409">
+    <ele>146.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Threlkeld</name>
+  </wpt>
+  <wpt lat="54.465998" lon="-3.213977">
+    <ele>446.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Piers Gill</name>
+  </wpt>
+  <wpt lat="54.403188" lon="-3.205404">
+    <ele>257.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Hardknott Roman Fort</name>
+  </wpt>
+  <wpt lat="54.467788" lon="-3.256863">
+    <ele>79.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Wasdale Head Inn</name>
+  </wpt>
+  <wpt lat="54.465328" lon="-2.843020">
+    <ele>457.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Ull Stone</name>
+    <desc>Legend has it that the Ull Stone was half the dice of Ull the giant who threw it from Cockermouth in a fit of rage</desc>
+  </wpt>
+  <wpt lat="54.494801" lon="-3.154615">
+    <ele>434.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Dovenest Cave</name>
+  </wpt>
+  <wpt lat="54.600378" lon="-3.136363">
+    <ele>85.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Keswick Moot Hall</name>
+  </wpt>
+  <wpt lat="54.537795" lon="-3.213511">
+    <ele>725.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Hindscarth</name>
+  </wpt>
+  <wpt lat="54.353529" lon="-3.190224">
+    <ele>105.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Newfield Inn, Seathwaite</name>
+  </wpt>
+  <wpt lat="54.496471" lon="-2.990685">
+    <ele>855.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Fairfield Summit</name>
+  </wpt>
+  <wpt lat="54.396573" lon="-3.078105">
+    <ele>275.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Tilberthwaite Gill</name>
+  </wpt>
+  <wpt lat="54.471006" lon="-3.194867">
+    <ele>606.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Sprinkling Tarn</name>
+  </wpt>
+  <wpt lat="54.474243" lon="-3.172677">
+    <ele>663.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>High House Tarn</name>
+  </wpt>
+  <wpt lat="54.429494" lon="-2.839235">
+    <ele>175.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Kentmere Church</name>
+    <desc>St Cuthberts Church</desc>
+  </wpt>
+  <wpt lat="54.576506" lon="-2.930311">
+    <ele>202.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Aira Force</name>
+  </wpt>
+  <wpt lat="54.379140" lon="-2.806731">
+    <ele>132.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Craggy Wood</name>
+  </wpt>
+  <wpt lat="54.482078" lon="-3.220072">
+    <ele>892.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Pinnacle Ridge, Westmorland Crags</name>
+  </wpt>
+  <wpt lat="54.395065" lon="-3.121862">
+    <ele>780.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Swirl How</name>
+  </wpt>
+  <wpt lat="54.461760" lon="-2.856927">
+    <ele>286.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Kentmere Reservoir</name>
+  </wpt>
+  <wpt lat="54.506674" lon="-2.870098">
+    <ele>723.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>The Knott</name>
+  </wpt>
+  <wpt lat="54.370329" lon="-3.136896">
+    <ele>764.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Dow Crag</name>
+  </wpt>
+  <wpt lat="54.547495" lon="-2.984872">
+    <ele>334.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Glenridding Mines</name>
+  </wpt>
+  <wpt lat="54.571961" lon="-3.250014">
+    <ele>836.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Crag Hill</name>
+  </wpt>
+  <wpt lat="54.495875" lon="-2.815397">
+    <ele>283.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>The Rigg Viewpoint</name>
+    <desc>Best viewpoint in Mardale</desc>
+  </wpt>
+  <wpt lat="54.370638" lon="-3.130808">
+    <ele>505.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Goats water</name>
+  </wpt>
+  <wpt lat="54.438832" lon="-3.092105">
+    <ele>326.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Side Pike</name>
+  </wpt>
+  <wpt lat="54.384663" lon="-2.769399">
+    <ele>277.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Gurnal Dubs</name>
+  </wpt>
+  <wpt lat="54.459812" lon="-3.024108">
+    <ele>68.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Grasmere</name>
+  </wpt>
+  <wpt lat="54.366183" lon="-2.885040">
+    <ele>193.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Dales Way</name>
+  </wpt>
+  <wpt lat="54.445209" lon="-3.102514">
+    <ele>97.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Old Dungeon Ghyll Hotel</name>
+  </wpt>
+  <wpt lat="54.563476" lon="-3.192384">
+    <ele>140.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Newlands Church</name>
+  </wpt>
+  <wpt lat="54.469270" lon="-3.065265">
+    <ele>281.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Easedale Tarn</name>
+  </wpt>
+  <wpt lat="54.455709" lon="-3.110686">
+    <ele>630.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Harrison Stickle South West Face</name>
+  </wpt>
+  <wpt lat="54.590018" lon="-3.140903">
+    <ele>74.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Friars Crag</name>
+  </wpt>
+  <wpt lat="54.517428" lon="-3.008247">
+    <ele>722.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Nethermost East Ridge</name>
+  </wpt>
+  <wpt lat="54.558113" lon="-3.193031">
+    <ele>150.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Goldscope Lead Mines</name>
+  </wpt>
+  <wpt lat="54.428154" lon="-3.319098">
+    <ele>62.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Wastwater Hostel</name>
+  </wpt>
+  <wpt lat="54.521147" lon="-3.281748">
+    <ele>701.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Grey Crag</name>
+  </wpt>
+  <wpt lat="54.455295" lon="-3.124311">
+    <ele>431.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Pike O Stickle West Face</name>
+  </wpt>
+  <wpt lat="54.418037" lon="-3.061716">
+    <ele>103.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Slater Bridge</name>
+  </wpt>
+  <wpt lat="54.602941" lon="-3.098237">
+    <ele>214.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Castlerigg Stone Circle</name>
+  </wpt>
+  <wpt lat="54.509766" lon="-3.008862">
+    <ele>795.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>The Tongue</name>
+  </wpt>
+  <wpt lat="54.431197" lon="-2.962718">
+    <ele>53.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Ambleside</name>
+  </wpt>
+  <wpt lat="54.580097" lon="-3.121564">
+    <ele>350.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Walla Crag</name>
+  </wpt>
+  <wpt lat="54.491332" lon="-3.301431">
+    <ele>820.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Scoat Fell</name>
+  </wpt>
+  <wpt lat="54.499770" lon="-3.280461">
+    <ele>754.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Pillar Rock</name>
+  </wpt>
+  <wpt lat="54.493370" lon="-3.302484">
+    <ele>808.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Steeple</name>
+  </wpt>
+  <wpt lat="54.450424" lon="-3.223572">
+    <ele>943.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Lords Rake and Deep Gill</name>
+  </wpt>
+  <wpt lat="54.533347" lon="-3.161328">
+    <ele>258.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Castle Crag</name>
+  </wpt>
+  <wpt lat="54.507152" lon="-2.926696">
+    <ele>156.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Brotherswater</name>
+  </wpt>
+  <wpt lat="54.478944" lon="-2.846668">
+    <ele>629.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Nan Bield Shleter</name>
+    <desc>Shelter for a butty</desc>
+  </wpt>
+  <wpt lat="54.483765" lon="-3.165726">
+    <ele>779.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Glaramara</name>
+  </wpt>
+  <wpt lat="54.479150" lon="-3.221713">
+    <ele>676.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>The Napes</name>
+  </wpt>
+  <wpt lat="54.456433" lon="-3.121203">
+    <ele>694.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Pike O Stickle</name>
+  </wpt>
+  <wpt lat="54.360798" lon="-3.200407">
+    <ele>207.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Wallowbarrow Crag</name>
+  </wpt>
+  <wpt lat="54.428512" lon="-3.092447">
+    <ele>189.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Blea Tarn</name>
+  </wpt>
+  <wpt lat="54.389533" lon="-2.755445">
+    <ele>328.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Ulgraves</name>
+  </wpt>
+  <wpt lat="54.456500" lon="-3.110036">
+    <ele>716.5</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Harrison Stickle</name>
+  </wpt>
+  <wpt lat="54.498446" lon="-2.823354">
+    <ele>243.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>RSPB Bird Hide</name>
+    <desc>Viewpoint for golden eagles (if you\u0027re lucky)</desc>
+  </wpt>
+  <wpt lat="54.368980" lon="-2.886024">
+    <ele>227.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>School Knott</name>
+  </wpt>
+  <wpt lat="54.374039" lon="-3.089399">
+    <ele>170.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Miners Bridge</name>
+  </wpt>
+  <wpt lat="54.541429" lon="-3.276129">
+    <ele>113.3</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Buttermere</name>
+  </wpt>
+  <wpt lat="54.421415" lon="-3.053604">
+    <ele>120.4</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Three Shires Inn</name>
+  </wpt>
+  <wpt lat="54.420168" lon="-3.309655">
+    <ele>531.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Whin Rigg</name>
+  </wpt>
+  <wpt lat="54.645917" lon="-3.043483">
+    <ele>704.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Sharp Edge</name>
+  </wpt>
+  <wpt lat="54.585499" lon="-3.197483">
+    <ele>450.2</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Barrow</name>
+  </wpt>
+  <wpt lat="54.381759" lon="-3.110721">
+    <ele>425.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Levers Water</name>
+  </wpt>
+  <wpt lat="54.571426" lon="-3.240871">
+    <ele>769.0</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Sail</name>
+  </wpt>
+  <wpt lat="54.529220" lon="-3.257637">
+    <ele>101.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Hassness</name>
+  </wpt>
+  <wpt lat="54.422211" lon="-3.192214">
+    <ele>197.1</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Lingcove Bridge</name>
+  </wpt>
+  <wpt lat="54.509662" lon="-2.913346">
+    <ele>182.7</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Hartsop</name>
+    <desc>Car Park</desc>
+  </wpt>
+  <wpt lat="54.588209" lon="-2.918260">
+    <ele>477.6</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Gowbarrow Fell</name>
+  </wpt>
+  <wpt lat="54.461432" lon="-3.105418">
+    <ele>688.9</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Pavey Ark</name>
+  </wpt>
+  <wpt lat="54.534572" lon="-3.252804">
+    <ele>250.8</ele>
+    <time>2020-05-06T07:46:54Z</time>
+    <name>Hassness Gill</name>
+  </wpt>
+</gpx>
