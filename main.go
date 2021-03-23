@@ -119,7 +119,7 @@ func main() {
 		}
 	}
 
-	err = out.Save("./output.gpx")
+	err = out.Save("./lakeland-pilgrimage-12-legs.gpx")
 	if err != nil {
 		panic(err)
 	}
